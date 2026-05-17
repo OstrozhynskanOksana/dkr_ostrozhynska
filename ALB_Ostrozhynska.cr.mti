@@ -1,0 +1,15 @@
+C:/Studying/chemo/dkr/ALB.v {1 {vlog -work work C:/Studying/chemo/dkr/ALB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALB
+
+Top level modules:
+	ALB
+
+} {} {}} C:/Studying/chemo/dkr/ALB_tb.v {1 {vlog -work work C:/Studying/chemo/dkr/ALB_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALB_tb
+
+Top level modules:
+	ALB_tb
+
+} {} {}}
